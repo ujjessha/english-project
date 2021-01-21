@@ -1,0 +1,49 @@
+h1 {
+ color: black;
+}
+.intro{
+    display: flex;
+    background-color: cadetblue;
+    justify-content: center;
+    font-style:italic;
+    font-size: 20px;
+}
+.images{
+    display: flex;
+    background-color: lavenderblush;
+    margin-left: 10px;
+    margin-top: 50px;
+    margin-right: 10px;
+    justify-content: space-between;
+}
+.start{
+    display: flex;
+    background-color: lightblue;
+    margin-top: 50px;
+    justify-content: center;
+    font-size: 20px;
+    font-style: italic;
+}
+.jammu{
+    display: flex;
+    background-color: lightgray;
+    margin-top: 10px;
+    justify-content:space-around;
+    font-size: 20px;
+    font-style:italic;  
+}
+.headingCulture{
+    display: flex;
+    background-color: lightblue;
+    margin-top: 10px;
+    justify-content: center;
+    font-size: 26px;
+    font-style: italic;
+}
+.culture{
+    display: flex;
+    background-color: lightgray;
+    justify-content: center;
+    font-size: 22px;
+    font-style: italic;
+}
